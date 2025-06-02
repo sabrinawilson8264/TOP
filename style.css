@@ -11,6 +11,10 @@ h1 {
     border-color: darkseagreen;
 }
 
+h1,h3,p,ul,ol,a {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
 .recipes-border{
     border-style: inset;
     border-color: darkseagreen;
